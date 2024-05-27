@@ -1,0 +1,70 @@
+Example Input and Expected Output for Appointment Booking System:
+Adding an Appointment:
+Input:
+Press 1
+Enter date (YYYY-MM-DD): 2024-05-27
+Enter time (HH:MM): 14:30
+Enter service: Dental Checkup
+Enter professional: Dr. Smith
+Expected Output:
+
+The system should display a confirmation message: "Appointment added successfully."
+
+
+Viewing Appointments:
+Input:
+Press 2
+Expected Output:
+
+The system should display all entered appointments in a structured format:
+Appointments:
+Date: 2024-05-27, Time: 14:30, Service: Dental Checkup, Professional: Dr. Smith
+
+
+Editing an Appointment:
+Input:
+Press 3
+Enter the date of the appointment to edit (YYYY-MM-DD): 2024-05-27
+Enter the time of the appointment to edit (HH:MM): 14:30
+Enter new date (YYYY-MM-DD): 2024-05-28
+Enter new time (HH:MM): 15:00
+Enter new service: Orthodontic Consultation
+Enter new professional: Dr. Johnson
+Expected Output:
+
+The system should update the appointment and display a confirmation message: "Appointment updated successfully."
+
+
+Deleting an Appointment:
+Input:
+Press 4
+Enter the date of the appointment to delete (YYYY-MM-DD): 2024-05-28
+Enter the time of the appointment to delete (HH:MM): 15:00
+Expected Output:
+
+The system should delete the appointment and display a confirmation message: "Appointment deleted successfully."
+
+
+Saving Appointments to File:
+Input:
+Press 5
+Enter filename to save appointments: appointments.txt
+Expected Output:
+
+The system should save all appointments to the file and display a confirmation message: "Appointments saved to appointments.txt."
+
+
+Loading Appointments from File:
+Input:
+Load appointments from file automatically at startup or by providing a command (if applicable).
+Expected Output:
+
+The system should load appointments from the file "appointments.txt" and display them.
+
+
+Exiting the Program:
+Input:
+Press 6
+Expected Output:
+
+The program should terminate gracefully with a message: "Exiting the program."
