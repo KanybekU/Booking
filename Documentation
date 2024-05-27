@@ -1,0 +1,47 @@
+Appointment Booking System Documentation: How to Use
+This documentation provides a step-by-step guide on how to use the Appointment Booking System code.
+
+Main Menu:
+Upon running the program, you will see the main menu with various options:
+Press 1 to add an appointment
+Press 2 to view appointments
+Press 3 to edit an appointment
+Press 4 to delete an appointment
+Press 5 to save appointments
+Press 6 to exit
+Performing Actions:
+Follow the instructions on the main menu to perform different actions:
+
+Add Appointment (Option 1): Enter details for a new appointment.
+View Appointments (Option 2): Display all booked appointments.
+Edit Appointment (Option 3): Modify details of an existing appointment.
+Delete Appointment (Option 4): Remove an appointment from the list.
+Save Appointments (Option 5): Save all appointments to a file.
+Exit (Option 6): Terminate the program.
+
+Input Instructions:
+Follow the prompts to enter appointment details, such as date, time, service, and professional.
+Provide input as per the instructions displayed on the screen.
+Input formats and data types are specified in the prompts, e.g., date in YYYY-MM-DD format and time in HH:MM format.
+
+Output Display:
+The program will display various outputs based on the actions performed.
+Output includes appointment data, success messages, error messages, etc.
+Data is displayed in a structured format for easy understanding.
+
+File Operations:
+Use option 5 to save appointment data to a file.
+Follow the prompts to provide file names and perform file operations.
+
+Exiting the Program:
+To exit the program, select option 6 from the main menu.
+The program will terminate gracefully.
+
+Screenshots:
+For visual guidance on using the program, refer to the screenshots provided in the separate documentation.
+
+Troubleshooting:
+Ensure all inputs are provided in the correct format as specified by the prompts.
+Check for any error messages displayed by the program and follow the instructions provided.
+If you encounter any issues, refer to the troubleshooting section in the main documentation or seek assistance from the developer.
+This guide should help you effectively use the Appointment Booking System code to manage appointments efficiently. If you encounter any difficulties or have questions, feel free to refer to the provided documentation or contact the developer for assistance.
